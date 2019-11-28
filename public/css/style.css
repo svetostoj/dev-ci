@@ -1,0 +1,22 @@
+/*Override Bootstrap*/
+
+.wrapper
+{
+    width: 980px;
+    margin: 0 auto;
+   background: palegoldenrod;
+}
+.span6
+{
+    background: lavender
+}
+
+#dashboard-side {
+    background: #f2f2f2;
+    min-height: 500px;
+}
+
+#dashboard-main{
+     background: #f2f2f2;
+     min-height: 500px;
+}
